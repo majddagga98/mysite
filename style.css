@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3em;
+    margin: 20px;
+}
+nav {
+    background: #4d4d4d;
+    color: #fff;
+}
+
+ul {
+    float: right;
+    margin-right: 20px;
+}
+
+ul li {
+    display: inline-block;
+    padding: 20px;
+    cursor: pointer;
+}
+
+ul li:hover {
+    background: rebeccapurple;
+}
+
+ul li a  {
+    color: #fff;
+    text-decoration: none;
+}
+nav img {
+    margin: 2px 20px;
+}
+
+.about {
+    padding: 20px;
+}
+.about p {
+    float: right;
+    width: 70%;
+    line-height: 22px;
+}
+
+.about img {
+    width: 28%;
+}
+
+.clear {
+    clear: both;
+}
+
+.protofile {
+    padding: 20px;
+    margin: 0 0 0 10px;
+}
+
+.protofile img{
+    margin: 3px 3px;
+}
+
+.contact i {
+    font-size: 200px;
+    margin: 0 20px;
+    color :red;
+} 
+
+.contact ul {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    padding: 30px;
+    background: #4d4d4d;
+}
+
+footer p {
+    text-align: center;
+    color: #fff;
+}
+
+footer i {
+    color: red;
+}
